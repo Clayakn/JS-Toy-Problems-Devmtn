@@ -1,4 +1,4 @@
-# Toy Problems for Devmountain Phoenix Cohort 
+# Toy Problems for Devmountain
 
 
 ## Schedule 
@@ -22,7 +22,11 @@
 
 ### Week 2
 <ul>
-  <li>Monday: Remove Dubstep</li>
+  <li>Monday: Remove the Dubstep
+    <a href="https://repl.it/@AndrewNam/Remove-the-Dubstep">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Remove-the-Dubstep-Answer">Answer</a>
+  </li>
   <li>Tuesday: Bob Ross Family Tree (in prep for axios)</li>
   <li>Wednesday: Array cardio</li>
   <li>Thursday: Skip Toy problem in favor of showing how to connect react and node.</li>
