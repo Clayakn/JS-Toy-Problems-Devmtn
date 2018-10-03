@@ -23,7 +23,7 @@
 // if they are multiple of 3 & 5 use 'FizzBuzz'
 
 // Step 2: Create Sample Data
-[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+let test = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
 
 // Step 3: Solve Sample Data
 [1,2,'Fizz',4,'Buzz','Fizz',7,8,'Fizz',10,11,'Fizz',13,14,'FizzBuzz']
@@ -66,4 +66,5 @@ arr.push(i)
 return arr
 } 
 
-console.log(fizzBuzz(23));
+let test = 15;
+console.log(fizzBuzz(test));
