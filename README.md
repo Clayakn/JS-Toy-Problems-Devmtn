@@ -6,7 +6,7 @@
 ### Week 1
   <ul>
     <li>Monday: None (Introduction to Devmountain)</li>
-    <li>Tuesday: Fizz Buzz With 'Walk-through' <a>Question</a><a href="https://repl.it/@AndrewNam/Fizz-Buzz-Answer">Answer</a></li>
+    <li>Tuesday: Fizz Buzz With 'Walk-through' <a href="https://repl.it/@AndrewNam/Fizz-Buzz">Question</a> / <a href="https://repl.it/@AndrewNam/Fizz-Buzz-Answer">Answer</a></li>
     <li>Wednesday: Broken - Swap Case</li>
     <li>Thursday: Broken - Array's and Reference(In prep for setState/immutability)</li>
     <li>Friday: Vowel Remover</li>
