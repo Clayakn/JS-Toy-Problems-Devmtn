@@ -104,9 +104,11 @@ Below are steps that should be used for teaching how to solve toy problems. It i
 
 // Step 3: Solve your Sample Data
 
-// Step 4: Break down the problem into its smallest pieces and how you solve the mini the problems.
+// Step 4: Signature
 
-// Step 5: Pseudo Code
+// Step 5: Break down the problem into its smallest pieces and how you solve the mini the problems.
 
-// Step 6: Code
+// Step 6: Pseudo Code
+
+// Step 7: Code
 
