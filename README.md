@@ -22,8 +22,7 @@
         <a href="https://repl.it/@AndrewNam/Debug-Array-Reference-Answer">Answer</a>
     </li>
     <li>Friday: String DisemVowler 
-        <a href="https://repl.it/@AndrewNam/String-DisemVowler">Question</a> 
-        / 
+        <a href="https://repl.it/@AndrewNam/String-DisemVowler">Question</a>/ 
         <a href="https://repl.it/@AndrewNam/String-DisemVowler-Answer">Answer</a>
     </li>
   </ul>
@@ -68,7 +67,7 @@
 
 ### Week 4
 <ul>
-  <li>Monday: Object.Assign(In prep for Redux)</li>
+  <li>Monday: </li>
   <li>Tuesday: </li>
   <li>Wednesday: </li>
   <li>Thursday: </li>
@@ -82,6 +81,7 @@
     <a href="https://repl.it/@AndrewNam/Letter-Frequency">Question</a> 
     / 
     <a href="https://repl.it/@AndrewNam/Letter-Frequency-Answer">Answer</a>
+  </li>
   <li>Wednesday: </li>
   <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
@@ -91,7 +91,11 @@
 
 ### Week 8 
 <ul>
-  <li>Monday: Randomize Array</li>
+  <li>Monday: Randomize Array
+    <a href="https://repl.it/@AndrewNam/Letter-Frequency">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Letter-Frequency-Answer">Answer</a>
+  </li>
   <li>Tuesday: </li>
   <li>Wednesday: </li>
   <li>Thursday: Lowest Common Denominator</li>
