@@ -92,9 +92,9 @@
 ### Week 8 
 <ul>
   <li>Monday: Randomize Array
-    <a href="https://repl.it/@AndrewNam/Letter-Frequency">Question</a> 
+    <a href="https://repl.it/@AndrewNam/Randomize-Array">Question</a> 
     / 
-    <a href="https://repl.it/@AndrewNam/Letter-Frequency-Answer">Answer</a>
+    <a href="https://repl.it/@AndrewNam/Randomize-Array-Answer">Answer</a>
   </li>
   <li>Tuesday: </li>
   <li>Wednesday: </li>
