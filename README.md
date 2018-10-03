@@ -98,15 +98,23 @@
   </li>
   <li>Tuesday: </li>
   <li>Wednesday: </li>
-  <li>Thursday: Lowest Common Denominator</li>
+  <li>Thursday: </li>
   <li>Friday: </li>
 </ul>
 
 ### Week 9 
 <ul>
   <li>Monday: Fibonacci Recursion</li>
-  <li>Tuesday: Does It Contain</li>
-  <li>Wednesday: </li>
+  <li>Tuesday: Does It Contain
+    <a href="https://repl.it/@AndrewNam/Does-It-Contain">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Does-It-Contain-Answer">Answer</a>
+  </li>
+  <li>Wednesday: Lowest Common Denominator
+    <a href="https://repl.it/@AndrewNam/Lowest-Common-Denominator">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Lowest-Common-Denominator-Answer">Answer</a>
+  </li>
   <li>Thursday: </li>
   <li>Friday: </li>
 </ul>
