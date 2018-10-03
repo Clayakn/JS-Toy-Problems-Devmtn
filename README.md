@@ -96,7 +96,11 @@
     / 
     <a href="https://repl.it/@AndrewNam/Randomize-Array-Answer">Answer</a>
   </li>
-  <li>Tuesday: </li>
+  <li>Tuesday: Roman Numeral Converter 
+   <a href="https://repl.it/@AndrewNam/Roman-Numeral-Converter">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Roman-Numeral-Converter-Answer">Answer</a>
+  </li>
   <li>Wednesday: </li>
   <li>Thursday: </li>
   <li>Friday: </li>
