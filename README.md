@@ -35,8 +35,16 @@
     / 
     <a href="https://repl.it/@AndrewNam/Remove-the-Dubstep-Answer">Answer</a>
   </li>
-  <li>Tuesday: Bob Ross Family Tree (in prep for axios)</li>
-  <li>Wednesday: Array cardio</li>
+  <li>Tuesday: Bob Ross Family Tree 
+    <a href="https://repl.it/@AndrewNam/Boss-Ross-Family-Tree">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Bob-Ross-Family-Tree-Answer">Answer</a>
+  </li>
+  <li>Wednesday: To 1337 Speak 
+    <a href="https://repl.it/@AndrewNam/To-l337-Speak">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/To-l337-Speak-Answer">Answer</a>
+  </li>
   <li>Thursday: Skip Toy problem in favor of showing how to connect react and node.</li>
   <li>Friday: None</li>
 </ul>
