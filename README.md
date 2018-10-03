@@ -45,17 +45,21 @@
     / 
     <a href="https://repl.it/@AndrewNam/To-l337-Speak-Answer">Answer</a>
   </li>
-  <li>Thursday: Skip Toy problem in favor of showing how to connect react and node.</li>
-  <li>Friday: None</li>
+  <li>Thursday: Printer Error
+    <a href="https://repl.it/@AndrewNam/Printer-Error">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Printer-Error-Answer">Answer</a>
+  </li>
+  <li>Friday: None (No DB Project)</li>
 </ul>
 
 ### Week 3
 <ul>
-  <li>Monday: None</li>
+  <li>Monday: None (No DB Project)</li>
   <li>Tuesday: Cart - class setup/Remove From Cart</li>
   <li>Wednesday: Cart - Calculate Total</li>
   <li>Thursday: Broken - Vowel Counter</li>
-  <li>Friday: None</li>
+  <li>Friday: None (Simulation)</li>
 </ul>
 
 ### Week 4
@@ -64,7 +68,7 @@
   <li>Tuesday: Cart - Add to Cart/Update Quantity</li>
   <li>Wednesday: HTML Facebook Post</li>
   <li>Thursday: Broken - Largest Even</li>
-  <li>Friday: None</li>
+  <li>Friday: None (Simulation)</li>
 </ul>
 
 ### Week 5
@@ -73,8 +77,10 @@
   <li>Tuesday: Letter Frequency</li>
   <li>Wednesday: Async Await</li>
   <li>Thursday: Wire frame project planning for all day review</li>
-  <li>Friday: None</li>
+  <li>Friday: None (Simulation)</li>
 </ul>
+
+### Week 6 & 7 (Personal Project)
 
 ### Week 8 (work in progress)
 <ul>
@@ -93,6 +99,8 @@
   <li>Thursday: Interview Prep</li>
   <li>Friday: Competency day</li>
 </ul>
+
+### Week 10, 11, 12 (Group Project & Interview Week)
 
 ## Problem Solving
 
