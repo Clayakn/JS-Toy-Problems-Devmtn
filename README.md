@@ -56,7 +56,11 @@
 ### Week 3
 <ul>
   <li>Monday: None (No DB Project)</li>
-  <li>Tuesday: Cart - class setup/Remove From Cart</li>
+  <li>Tuesday: Square Each Number 
+    <a href="https://repl.it/@AndrewNam/Square-Each-Number">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Square-Each-Number-Answer">Answer</a>
+  </li>
   <li>Wednesday: Cart - Calculate Total</li>
   <li>Thursday: Broken - Vowel Counter</li>
   <li>Friday: None (Simulation)</li>
