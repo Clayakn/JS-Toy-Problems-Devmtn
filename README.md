@@ -61,47 +61,50 @@
     / 
     <a href="https://repl.it/@AndrewNam/Square-Each-Number-Answer">Answer</a>
   </li>
-  <li>Wednesday: Cart - Calculate Total</li>
-  <li>Thursday: Broken - Vowel Counter</li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
 </ul>
 
 ### Week 4
 <ul>
   <li>Monday: Object.Assign(In prep for Redux)</li>
-  <li>Tuesday: Cart - Add to Cart/Update Quantity</li>
-  <li>Wednesday: HTML Facebook Post</li>
-  <li>Thursday: Broken - Largest Even</li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
 </ul>
 
 ### Week 5
 <ul>
-  <li>Monday: HTML Adobe(In prep for Media Queries)</li>
-  <li>Tuesday: Letter Frequency</li>
-  <li>Wednesday: Async Await</li>
-  <li>Thursday: Wire frame project planning for all day review</li>
+  <li>Monday: </li>
+  <li>Tuesday: Letter Frequency
+    <a href="https://repl.it/@AndrewNam/Letter-Frequency">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Letter-Frequency-Answer">Answer</a>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
 </ul>
 
 ### Week 6 & 7 (Personal Project)
 
-### Week 8 (work in progress)
+### Week 8 
 <ul>
   <li>Monday: Randomize Array</li>
-  <li>Tuesday: Primes Summed</li>
-  <li>Wednesday: Ransom Note</li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
   <li>Thursday: Lowest Common Denominator</li>
-  <li>Friday: Competency day</li>
+  <li>Friday: </li>
 </ul>
 
-### Week 9 (work in progress)
+### Week 9 
 <ul>
   <li>Monday: Fibonacci Recursion</li>
   <li>Tuesday: Does It Contain</li>
-  <li>Wednesday: Interview Prep</li>
-  <li>Thursday: Interview Prep</li>
-  <li>Friday: Competency day</li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
 </ul>
 
 ### Week 10, 11, 12 (Group Project & Interview Week)
