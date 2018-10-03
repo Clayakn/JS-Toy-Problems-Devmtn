@@ -11,7 +11,11 @@
         /
         <a href="https://repl.it/@AndrewNam/Fizz-Buzz-Answer">Answer</a>
      </li>
-    <li>Wednesday: Broken - Swap Case</li>
+    <li>Wednesday: First Reverse Try (Codewars)
+        <a href="https://repl.it/@AndrewNam/First-Reverse-Try">Question</a> 
+        /
+        <a href="https://repl.it/@AndrewNam/First-Reverse-Try-Answer">Answer</a>
+    </li>
     <li>Thursday: Broken - Array's and Reference(In prep for setState/immutability)</li>
     <li>Friday: String DisemVowler 
         <a href="https://repl.it/@AndrewNam/String-DisemVowler">Question</a> 
