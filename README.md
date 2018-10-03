@@ -16,7 +16,11 @@
         /
         <a href="https://repl.it/@AndrewNam/First-Reverse-Try-Answer">Answer</a>
     </li>
-    <li>Thursday: Broken - Array's and Reference(In prep for setState/immutability)</li>
+    <li>Thursday: Debug Array Reference
+        <a href="https://repl.it/@AndrewNam/Debug-Array-Reference">Question</a> 
+        /
+        <a href="https://repl.it/@AndrewNam/Debug-Array-Reference-Answer">Answer</a>
+    </li>
     <li>Friday: String DisemVowler 
         <a href="https://repl.it/@AndrewNam/String-DisemVowler">Question</a> 
         / 
