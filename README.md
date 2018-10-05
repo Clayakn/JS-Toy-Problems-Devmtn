@@ -100,7 +100,11 @@
 
 ### Week 5
 <ul>
-  <li>Monday: </li>
+  <li>Monday: Pig Latin
+    <a href="https://repl.it/@AndrewNam/Pig-Latin">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Pig-Latin-Answer">Answer</a>
+  </li>
   <li>Tuesday: Letter Frequency
     <a href="https://repl.it/@AndrewNam/Letter-Frequency">Question</a> 
     / 
