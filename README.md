@@ -85,12 +85,16 @@
     / 
     <a href="https://repl.it/@AndrewNam/Title-Case-Answer">Answer</a>
   </li> 
-  <li>Wednesday: Coverage to Covfefe
+  <li>Wednesday: Coverage To Covfefe
     <a href="https://repl.it/@AndrewNam/Coverage-To-Covfefe">Question</a> 
     / 
     <a href="https://repl.it/@AndrewNam/Coverage-To-Covfefe-Answer">Answer</a>
   </li>
-  <li>Thursday: </li>
+  <li>Thursday: Fold Your Way To The Moon (Codewars)
+    <a href="https://repl.it/@AndrewNam/Fold-Your-Way-To-The-Moon-Codewars">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Fold-Your-Way-To-The-Moon-Answer">Answer</a>
+  </li>
   <li>Friday: None (Simulation)</li>
 </ul>
 
