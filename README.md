@@ -120,7 +120,11 @@
 
 ### Week 9 
 <ul>
-  <li>Monday: Fibonacci Recursion</li>
+  <li>Monday: Halfing With Recursion
+    <a href="https://repl.it/@AndrewNam/Halfing-With-Recursion">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Halfing-With-Recursion-Answer">Answer</a>
+  </li>
   <li>Tuesday: Does It Contain
     <a href="https://repl.it/@AndrewNam/Does-It-Contain">Question</a> 
     / 
@@ -154,4 +158,3 @@ Below are steps that should be used for teaching how to solve toy problems. It i
 // Step 6: Pseudo Code
 
 // Step 7: Code
-
