@@ -80,7 +80,11 @@
     / 
     <a href="https://repl.it/@AndrewNam/Mumbling-Answer">Answer</a>
   </li>
-  <li>Tuesday: </li>
+  <li>Tuesday: Title Case
+    <a href="https://repl.it/@AndrewNam/Title-Case-Codewars">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Title-Case-Answer">Answer</a>
+  </li> 
   <li>Wednesday: </li>
   <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
@@ -158,3 +162,5 @@ Below are steps that should be used for teaching how to solve toy problems. It i
 // Step 6: Pseudo Code
 
 // Step 7: Code
+
+
