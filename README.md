@@ -60,7 +60,11 @@
     / 
     <a href="https://repl.it/@AndrewNam/Square-Each-Number-Answer">Answer</a>
   </li>
-  <li>Wednesday: </li>
+  <li>Wednesday: Valid Parentheses 
+    <a href="https://repl.it/@AndrewNam/Valid-Parentheses">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Valid-Parentheses-Answer">Answer</a>
+  </li>
   <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
 </ul>
