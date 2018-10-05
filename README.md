@@ -65,7 +65,11 @@
     / 
     <a href="https://repl.it/@AndrewNam/Valid-Parentheses-Answer">Answer</a>
   </li>
-  <li>Thursday: </li>
+  <li>Thursday: Next Perfect Square
+    <a href="https://repl.it/@AndrewNam/Next-Perfect-Square">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Next-Perfect-Square-Answer">Answer</a>
+  </li>
   <li>Friday: None (Simulation)</li>
 </ul>
 
