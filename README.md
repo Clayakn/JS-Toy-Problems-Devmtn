@@ -85,7 +85,11 @@
     / 
     <a href="https://repl.it/@AndrewNam/Title-Case-Answer">Answer</a>
   </li> 
-  <li>Wednesday: </li>
+  <li>Wednesday: Coverage to Covfefe
+    <a href="https://repl.it/@AndrewNam/Coverage-To-Covfefe">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Coverage-To-Covfefe-Answer">Answer</a>
+  </li>
   <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
 </ul>
