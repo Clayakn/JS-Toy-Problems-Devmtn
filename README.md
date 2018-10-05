@@ -115,7 +115,12 @@
     / 
     <a href="https://repl.it/@AndrewNam/Fold-Your-Way-To-The-Moon-Answer">Answer</a>
   </li> 
-  <li>Thursday: </li>
+  <li>Thursday: Complimentary DNA 
+    <a href="https://repl.it/@AndrewNam/Complimentary-DNA">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Complimentary-DNA-Answer">Answer</a>
+  </li> 
+
   <li>Friday: None (Simulation)</li>
 </ul>
 
