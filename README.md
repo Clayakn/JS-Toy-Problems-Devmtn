@@ -90,10 +90,10 @@
     / 
     <a href="https://repl.it/@AndrewNam/Coverage-To-Covfefe-Answer">Answer</a>
   </li>
-  <li>Thursday: Fold Your Way To The Moon (Codewars)
-    <a href="https://repl.it/@AndrewNam/Fold-Your-Way-To-The-Moon-Codewars">Question</a> 
+  <li>Thursday: Vowel Counter 
+    <a href="https://repl.it/@AndrewNam/Vowel-Counter">Question</a> 
     / 
-    <a href="https://repl.it/@AndrewNam/Fold-Your-Way-To-The-Moon-Answer">Answer</a>
+    <a href="https://repl.it/@AndrewNam/Vowel-Counter-Answer">Answer</a>
   </li>
   <li>Friday: None (Simulation)</li>
 </ul>
@@ -106,7 +106,11 @@
     / 
     <a href="https://repl.it/@AndrewNam/Letter-Frequency-Answer">Answer</a>
   </li>
-  <li>Wednesday: </li>
+  <li>Wednesday: Fold Your Way To The Moon (Codewars)
+    <a href="https://repl.it/@AndrewNam/Fold-Your-Way-To-The-Moon-Codewars">Question</a> 
+    / 
+    <a href="https://repl.it/@AndrewNam/Fold-Your-Way-To-The-Moon-Answer">Answer</a>
+  </li> 
   <li>Thursday: </li>
   <li>Friday: None (Simulation)</li>
 </ul>
