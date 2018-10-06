@@ -134,13 +134,22 @@
     <a href="https://repl.it/@AndrewNam/Randomize-Array-Answer">Answer</a>
   </li>
   <li>Tuesday: Roman Numeral Converter 
-   <a href="https://repl.it/@AndrewNam/Roman-Numeral-Converter">Question</a> 
+    <a href="https://repl.it/@AndrewNam/Roman-Numeral-Converter">Question</a> 
     / 
     <a href="https://repl.it/@AndrewNam/Roman-Numeral-Converter-Answer">Answer</a>
   </li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Wednesday: JavaScript Clock</li>
+    <a href='https://repl.it/@Olafaloofian/JavaScript-Clock'>Question</a>
+    /
+    <a href='https://repl.it/@Olafaloofian/JavaScript-Clock-Solution'>Answer</a>
+  <li>Thursday: String Subset</li>
+    <a href='https://repl.it/@Olafaloofian/String-Subset'>Question</a>
+    /
+    <a href='https://repl.it/@Olafaloofian/String-Subset-Solution'>Answer</a>
+  <li>Friday: Range Finder</li>
+    <a href='https://repl.it/@Olafaloofian/Range-Finder'>Question</a>
+    /
+    <a href='https://repl.it/@Olafaloofian/Range-Finder-Solution'>Answer</a>
 </ul>
 
 ### Week 9 
@@ -160,8 +169,14 @@
     / 
     <a href="https://repl.it/@AndrewNam/Lowest-Common-Denominator-Answer">Answer</a>
   </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Thursday: Flatten an Array of Any Depth, Remove Objects</li>
+  <a href='https://repl.it/@Olafaloofian/Flatten-Array'>Question<a>
+  /
+  <a href='https://repl.it/@Olafaloofian/Flatten-Array-Solution'>Answer</a>
+  <li>Friday: Array Targeting</li>
+  <a href='https://repl.it/@Olafaloofian/Array-Targeting'>Question</a>
+  /
+  <a href='https://repl.it/@Olafaloofian/Array-Targeting-Solution'>Answer</a>
 </ul>
 
 ### Week 10, 11, 12 (Group Project & Interview Week)
