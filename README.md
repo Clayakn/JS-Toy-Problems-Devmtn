@@ -138,9 +138,12 @@
     / 
     <a href="https://repl.it/@AndrewNam/Roman-Numeral-Converter-Answer">Answer</a>
   </li>
-  <li>Wednesday: JavaScript Clock</li><a href='https://repl.it/@Olafaloofian/JavaScript-Clock'>Question</a> / <a href='https://repl.it/@Olafaloofian/JavaScript-Clock-Solution'>Answer</a>
-  <li>Thursday: String Subset</li><a href='https://repl.it/@Olafaloofian/String-Subset'>Question</a> / <a href='https://repl.it/@Olafaloofian/String-Subset-Solution'>Answer</a>
-  <li>Friday: Range Finder</li><a href='https://repl.it/@Olafaloofian/Range-Finder'>Question</a> / <a href='https://repl.it/@Olafaloofian/Range-Finder-Solution'>Answer</a>
+  <li>Wednesday: JavaScript Clock<a href='https://repl.it/@Olafaloofian/JavaScript-Clock'>Question</a> / <a href='https://repl.it/@Olafaloofian/JavaScript-Clock-Solution'>Answer</a>
+  </li>
+  <li>Thursday: String Subset<a href='https://repl.it/@Olafaloofian/String-Subset'>Question</a> / <a href='https://repl.it/@Olafaloofian/String-Subset-Solution'>Answer</a>
+  </li>
+  <li>Friday: Range Finder<a href='https://repl.it/@Olafaloofian/Range-Finder'>Question</a> / <a href='https://repl.it/@Olafaloofian/Range-Finder-Solution'>Answer</a>
+  </li>
 </ul>
 
 ### Week 9 
@@ -160,8 +163,10 @@
     / 
     <a href="https://repl.it/@AndrewNam/Lowest-Common-Denominator-Answer">Answer</a>
   </li>
-  <li>Thursday: Flatten an Array of Any Depth, Remove Objects</li><a href='https://repl.it/@Olafaloofian/Flatten-Array'>Question<a> / <a href='https://repl.it/@Olafaloofian/Flatten-Array-Solution'>Answer</a>
-  <li>Friday: Array Targeting</li> <a href='https://repl.it/@Olafaloofian/Array-Targeting'>Question</a> / <a href='https://repl.it/@Olafaloofian/Array-Targeting-Solution'>Answer</a>
+  <li>Thursday: Flatten an Array of Any Depth, Remove Objects<a href='https://repl.it/@Olafaloofian/Flatten-Array'>Question<a> / <a href='https://repl.it/@Olafaloofian/Flatten-Array-Solution'>Answer</a>
+  </li>
+  <li>Friday: Array Targeting <a href='https://repl.it/@Olafaloofian/Array-Targeting'>Question</a> / <a href='https://repl.it/@Olafaloofian/Array-Targeting-Solution'>Answer</a>
+  </li>
 </ul>
 
 ### Week 10, 11, 12 (Group Project & Interview Week)
