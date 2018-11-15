@@ -192,5 +192,7 @@ Below are steps that should be used for teaching how to solve toy problems. It i
 
 ## Difficulty 
 1 Star = Easiest 
+
 5 Star = Hardest
+
 Roman Numeral Converter: 5 Stars
