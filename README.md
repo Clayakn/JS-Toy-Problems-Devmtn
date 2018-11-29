@@ -165,7 +165,7 @@
   </li>
   <li>Thursday: Flatten an Array of Any Depth, Remove Objects <a href='https://repl.it/@Olafaloofian/Flatten-Array'>Question<a> / <a href='https://repl.it/@Olafaloofian/Flatten-Array-Solution'>Answer</a>
   </li>
-  <li>Friday: Array Targeting <a href='https://repl.it/@Olafaloofian/Array-Targeting'>Question</a> / <a href='https://repl.it/@Olafaloofian/Array-Targeting-Solution'>Answer</a>
+  <li>Friday: Array Targeting <a href='https://repl.it/@AndrewNam/Array-Targeting'>Question</a> / <a href='https://repl.it/@AndrewNam/Array-Targeting-Solution'>Answer</a>
   </li>
 </ul>
 
